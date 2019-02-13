@@ -1,0 +1,7 @@
+C:\Nirapod.Bangla\HRS\Releases\HRS_ETL_Release_v2\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_v2.0\HRS_ETL_v2.0\bin\Release\HRS_ETL_v2.0.exe.config
+C:\Nirapod.Bangla\HRS\Releases\HRS_ETL_Release_v2\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_v2.0\HRS_ETL_v2.0\bin\Release\HRS_ETL_v2.0.exe
+C:\Nirapod.Bangla\HRS\Releases\HRS_ETL_Release_v2\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_v2.0\HRS_ETL_v2.0\bin\Release\HRS_ETL_v2.0.pdb
+C:\Nirapod.Bangla\HRS\Releases\HRS_ETL_Release_v2\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_v2.0\HRS_ETL_v2.0\obj\Release\HRS_ETL_v2.0.csprojResolveAssemblyReference.cache
+C:\Nirapod.Bangla\HRS\Releases\HRS_ETL_Release_v2\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_v2.0\HRS_ETL_v2.0\obj\Release\HRS_ETL_v2.0.csproj.CoreCompileInputs.cache
+C:\Nirapod.Bangla\HRS\Releases\HRS_ETL_Release_v2\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_v2.0\HRS_ETL_v2.0\obj\Release\HRS_ETL_v2.0.exe
+C:\Nirapod.Bangla\HRS\Releases\HRS_ETL_Release_v2\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_v2.0\HRS_ETL_v2.0\obj\Release\HRS_ETL_v2.0.pdb

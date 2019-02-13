@@ -1,0 +1,13 @@
+C:\Nirapod.Bangla\HRS\Releases\HRS_EXCEL_AUTOMATION_Version_5\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_Tool\HRS_ETL_Tool\bin\Release\HRS_ETL_Tool.exe.config
+C:\Nirapod.Bangla\HRS\Releases\HRS_EXCEL_AUTOMATION_Version_5\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_Tool\HRS_ETL_Tool\bin\Release\HRS_ETL_Tool.exe
+C:\Nirapod.Bangla\HRS\Releases\HRS_EXCEL_AUTOMATION_Version_5\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_Tool\HRS_ETL_Tool\bin\Release\HRS_ETL_Tool.pdb
+C:\Nirapod.Bangla\HRS\Releases\HRS_EXCEL_AUTOMATION_Version_5\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_Tool\HRS_ETL_Tool\obj\Release\HRS_ETL_Tool.csproj.CoreCompileInputs.cache
+C:\Nirapod.Bangla\HRS\Releases\HRS_EXCEL_AUTOMATION_Version_5\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_Tool\HRS_ETL_Tool\obj\Release\HRS_ETL_Tool.exe
+C:\Nirapod.Bangla\HRS\Releases\HRS_EXCEL_AUTOMATION_Version_5\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_Tool\HRS_ETL_Tool\obj\Release\HRS_ETL_Tool.pdb
+C:\Nirapod.Bangla\HRS\Releases\HRS_ETL_Release_v2\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_Tool\HRS_ETL_Tool\bin\Release\HRS_ETL_Tool.exe.config
+C:\Nirapod.Bangla\HRS\Releases\HRS_ETL_Release_v2\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_Tool\HRS_ETL_Tool\bin\Release\HRS_ETL_Tool.exe
+C:\Nirapod.Bangla\HRS\Releases\HRS_ETL_Release_v2\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_Tool\HRS_ETL_Tool\bin\Release\HRS_ETL_Tool.pdb
+C:\Nirapod.Bangla\HRS\Releases\HRS_ETL_Release_v2\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_Tool\HRS_ETL_Tool\obj\Release\HRS_ETL_Tool.csprojResolveAssemblyReference.cache
+C:\Nirapod.Bangla\HRS\Releases\HRS_ETL_Release_v2\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_Tool\HRS_ETL_Tool\obj\Release\HRS_ETL_Tool.csproj.CoreCompileInputs.cache
+C:\Nirapod.Bangla\HRS\Releases\HRS_ETL_Release_v2\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_Tool\HRS_ETL_Tool\obj\Release\HRS_ETL_Tool.exe
+C:\Nirapod.Bangla\HRS\Releases\HRS_ETL_Release_v2\HRS_ETL_Release_v2.0_20180422\Source_Code\HRS_ETL_Tool\HRS_ETL_Tool\obj\Release\HRS_ETL_Tool.pdb

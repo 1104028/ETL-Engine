@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <appconfig>
+    <source_directory>C:\Users\ETL\Desktop\Output\Source Files</source_directory>
+    <target_directory>C:\Users\ETL\Desktop\Output\Generated Output Files</target_directory>
+    <format_directory>C:\Users\ETL\Desktop\Output\Target Format Files\format_file.xls</format_directory>
+	<processed_source_directory>C:\Users\ETL\Desktop\Output\Processed_Source_Files</processed_source_directory>
+  </appconfig>
+</root>
